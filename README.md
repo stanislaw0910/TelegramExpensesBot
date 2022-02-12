@@ -29,10 +29,6 @@ To use this application you need to:
    And save service_account.json file (this file is a key file to use your google spreadsheets under service account without password)!
    **Very sensitive information, keep it safe !!!**
    
-   Add path to it into the .env file for variable SERVICE_ACCOUNT="".
-   Example: 
-   windows: SERVICE_ACCOUNT="C:\Users\Iliya\secret\service_account.json" 
-   or 
-   linux : '/home/iliya/ExpensesBot/service_account.json'
+   
 
 
